@@ -1,6 +1,6 @@
 {
-	"name": "resize-optimize-images",
-	"version": "1.1.2",
+	"name": "resize-optimize-images-fix",
+	"version": "1.1.3",
 	"description": "🗃 Resize and optimize bmp, gif, jpeg, png, &amp; tiff images in Node.js.",
 	"license": "MIT",
 	"repository": "ahmadawais/resize-optimize-images",
